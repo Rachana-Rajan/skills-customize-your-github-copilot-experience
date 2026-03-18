@@ -72,6 +72,13 @@
       "description": "Text parsing, file I/O, and string manipulation tasks in Python.",
       "path": "assignments/python-text-processing",
       "dueDate": "2026-03-25"
+    },
+    {
+      "id": "python-statistics",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy.",
+      "path": "assignments/python-statistics",
+      "dueDate": "2026-03-25"
     }
   ]
 }
